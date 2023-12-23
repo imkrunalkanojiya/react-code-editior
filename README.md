@@ -1,1 +1,12 @@
 # react-code-editior
+
+Simple Code Edition.
+
+
+### Setup Guide
+
+````
+REACT_APP_RAPID_API_URL = YOURAPIURL
+REACT_APP_RAPID_API_HOST = YOURAPIHOST
+REACT_APP_RAPID_API_KEY = YOURAPIKEY
+````
